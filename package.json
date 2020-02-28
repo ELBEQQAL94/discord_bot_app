@@ -1,0 +1,29 @@
+{
+  "name": "disocrd_bot_app",
+  "version": "1.0.0",
+  "description": "Create simple discord app, using discord.js",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ELBEQQAL94/discord_bot_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ELBEQQAL94/discord_bot_app/issues"
+  },
+  "homepage": "https://github.com/ELBEQQAL94/discord_bot_app#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
