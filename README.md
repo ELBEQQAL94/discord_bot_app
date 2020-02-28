@@ -4,8 +4,8 @@ Create simple discord app, using discord.js
 
 ### TODO:
 
-* [ ] Setup project 
-* [ ] Setup eslint
+* [x] Setup project 
+* [x] Setup eslint
 * [ ] Create Discord Application/ Bot
 * [ ] Add the bot to the server
 * [ ] Setup basic bot
